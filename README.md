@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @wangyiyan01
-- 👀 I’m interested in python
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me my Wechat: w419571654
-
-<!---
-wangyiyan01/wangyiyan01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+2022.4.13------看见B站上的一个python小作业 自己动手小敲了一下
